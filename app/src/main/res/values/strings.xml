@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EvokeTest</string>
+    <string name="no_data">No results found…!</string>
+    <string name="search">Search</string>
+    <string name="get_users">Get Users</string>
+    <string name="internet_error">Please check network connectivity.</string>
+</resources>
